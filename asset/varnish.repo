@@ -1,6 +1,6 @@
 [varnishcache_varnish64]
 name=varnishcache_varnish64
-baseurl=https://packagecloud.io/varnishcache/varnish64/el/8/$basearch
+baseurl=https://packagecloud.io/varnishcache/varnish64/el/7/$basearch
 repo_gpgcheck=1
 gpgcheck=0
 enabled=1
@@ -11,7 +11,7 @@ metadata_expire=300
 
 [varnishcache_varnish64-source]
 name=varnishcache_varnish64-source
-baseurl=https://packagecloud.io/varnishcache/varnish64/el/8/SRPMS
+baseurl=https://packagecloud.io/varnishcache/varnish64/el/7/SRPMS
 repo_gpgcheck=1
 gpgcheck=0
 enabled=1
